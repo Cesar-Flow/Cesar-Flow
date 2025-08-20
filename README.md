@@ -1,46 +1,32 @@
-# </ lordvitor11 > Full-Stack developer em formação.
+# Hey there, I'm Vitor César! <img src="https://flagcdn.com/w40/br.png" width="40" alt="Brazil Flag"/>
 
-<div align=center> 
+## About me
+I’m a backend-oriented developer who loves tackling challenges and **solving problems**.
 
-## Sobre mim
+## Currently learning
+- **Java** with **Spring Boot**
+- **JavaFX** for desktop interfaces  
+- **Databases** (MySQL and more)
 
-</div>
- 
-- 👋 Olá, me chamo Vitor César, tenho 20 anos, estudo na área desde 2021, porém sem formação e carreira até o momento.
-- Autodidata com sede de aprender.
-- Atualmente estou aprendendo JavaScript e PHP, mas não me limitando a esses dois.
-- 📫 Para me encontrar, chama no Whatsapp ou pelo e-mail em: vitorcesarsouza7@gmail.com
-- [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5575982777354)
+## Interests
+- **Software Architecture**
+- **Automation** — always looking for ways to simplify repetitive tasks
 
-<div align=center> 
+## Favorite tech stack
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)]()
+[![JavaFX](https://img.shields.io/badge/JavaFX-FFCC2F?style=for-the-badge&logo=java&logoColor=black)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 
-## Redes sociais
- <br>
- 
-| Link                |  Descrição                                      |
-| ------------------- | ----------------------------------------------- |
-  <a href="https://www.youtube.com/c/lordvitor11" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> | Meu YouTube
- <a href="https://discord.gg/42rtjvwzGf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> | Minha comunidade no Discord
-  <a href="https://www.linkedin.com/in/vitor-c%C3%A9sar-358324209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | Meu LinkedIn profissional
-| [![](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/@whoslv_) | Meu IG pessoal
+## Featured project
+- [**SmartToolbox**](https://github.com/Cesar-Flow/SmartToolbox) — my current work in progress 🚀
 
-## Tecnologias e Ferramentas
+## What’s next
+Soon I’ll start my journey in **Software Engineering**.  
+Always focused on continuous learning and technical growth.
 
+---
 
-<img src="https://skillicons.dev/icons?i=html" title="HTML">
-<img src="https://skillicons.dev/icons?i=css" title="CSS">
-<img src="https://skillicons.dev/icons?i=js" title="JavaScript">
-<img src="https://skillicons.dev/icons?i=java" title="Java">
-<img src="https://skillicons.dev/icons?i=python" title="Python">
-<img src="https://skillicons.dev/icons?i=php" title="PHP">
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
-<img src="https://skillicons.dev/icons?i=git" title="Git">
-<img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code">
-<img src="https://skillicons.dev/icons?i=vim" title="Vim">
-<img src="https://skillicons.dev/icons?i=bots" title="Discord Bot">
+🌍 I can work in both **English** and **Portuguese** 🇧🇷  
 
-
-## GitHub Status
-  <a href="https://github.com/lordvitor11">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lordvitor11&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordvitor11&layout=compact&langs_count=7&theme=gotham"/>
-</div>
+> "Clean code brings joy — and fewer bugs" 😉
