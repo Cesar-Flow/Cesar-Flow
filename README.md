@@ -19,7 +19,7 @@ I’m a backend-oriented developer who loves tackling challenges and **solving p
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 ## Featured project
-- [**SmartToolbox**](https://github.com/Cesar-Flow/SmartToolbox) — my current work in progress 🚀
+<a href="https://github.com/Cesar-Flow/SmartToolbox" target="_blank">SmartToolbox</a> — my current work in progress 🚀
 
 ## What’s next
 Soon I’ll start my journey in **Software Engineering**.  
