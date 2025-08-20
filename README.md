@@ -27,6 +27,4 @@ Always focused on continuous learning and technical growth.
 
 ---
 
-🌍 I can work in both **English** and **Portuguese** 🇧🇷  
-
 > "Clean code brings joy — and fewer bugs" 😉
