@@ -5,25 +5,24 @@ I’m a backend-oriented developer who loves tackling challenges and **solving p
 
 ## Currently learning
 - **Java** with **Spring Boot**
-- **JavaFX** for desktop interfaces  
-- **Databases** (MySQL and more)
+- **Databases** (PostgreSQL and more)
 
 ## Interests
 - **Software Architecture**
 - **Automation** — always looking for ways to simplify repetitive tasks
 
 ## Favorite tech stack
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)]()
-[![JavaFX](https://img.shields.io/badge/JavaFX-FFCC2F?style=for-the-badge&logo=java&logoColor=black)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
 ## Featured project
-<a href="https://github.com/Cesar-Flow/SmartToolbox" target="_blank">SmartToolbox</a> — my current work in progress 🚀
+<a href="https://github.com/Cesar-Flow/VanillaPulse" target="_blank">VanillaPulse</a> — my current work in progress 🚀
 
 ## What’s next
-Soon I’ll start my journey in **Software Engineering**.  
-Always focused on continuous learning and technical growth.
+Currently pursuing my journey in Software Engineering.
+Always focused on continuous learning, technical growth, and building real-world skills.
 
 ---
 
